@@ -80,7 +80,7 @@ void loop()
   
   // LCD 컨트롤
   lcd.setCursor(0,0); //첫번째 줄의 0번째 부터 출력
-  lcd.print("O3 density: ");
+  lcd.print("O3 Density: ");
   lcd.print("%");
   lcd.print("");
   lcd.print("ppm");
